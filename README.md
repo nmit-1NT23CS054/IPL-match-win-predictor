@@ -1,8 +1,6 @@
 # IPL Match Win Probability Predictor
 
-This project applies Machine Learning to predict the probability of a team winning an IPL match during the second innings based on the current match situation.
-
-The system analyzes match conditions such as runs remaining, balls left, wickets left, and run rates to estimate **the winning probability for both teams**.
+A Machine Learning project that predicts the probability of a team winning an IPL match during the second innings based on the current match situation.
 
 ---
 
