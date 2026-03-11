@@ -37,7 +37,7 @@ The model is trained using historical IPL ball-by-ball data and predicts the pro
 
 ## Machine Learning Model
 
-Algorithm used:
+Algorithm used :
 
 Logistic Regression (Supervised Learning)
 
@@ -49,7 +49,7 @@ Model workflow:
 4. Model training  
 5. Win probability prediction  
 
-Model Accuracy: **~81%**
+Model Accuracy : **~81%**
 
 ---
 
@@ -70,7 +70,7 @@ The prediction model takes the following match situation inputs:
 
 ## Example Output
 
-Example prediction:
+Example prediction :
 
 ```
 Match Prediction
